@@ -1,0 +1,19 @@
+/* font-family: 'Abel', sans-serif;
+font-family: 'Playfair Display', serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Salsa', cursive; */
+
+h1 {
+    text-align: center;
+    color: black;
+    font-family: 'Abel', sans-serif;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Salsa', cursive;
+    font-weight: bold;
+}
+
+p {
+   font-family: 'Playfair Display', serif;
+   font-weight: normal; 
+}
